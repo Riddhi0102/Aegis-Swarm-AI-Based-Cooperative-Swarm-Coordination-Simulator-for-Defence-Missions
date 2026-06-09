@@ -1,0 +1,6 @@
+{
+  "name": "Aegis Swarm",
+  "description": "An interactive tactical swarm defense simulator. Coordinate interceptor platforms, deploy shield barriers, fire defense CIWS lasers, and counter emerging threats in real time.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
